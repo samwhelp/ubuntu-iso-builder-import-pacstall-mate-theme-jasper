@@ -1,0 +1,16 @@
+
+
+[org.mate.Marco.general]
+theme='Jasper-Dark'
+
+
+[org.mate.interface]
+gtk-theme='Jasper-Dark'
+icon-theme='GreyStone'
+#icon-theme='Numix-Circle'
+
+
+[org.mate.peripherals-mouse]
+cursor-theme='breeze_cursors'
+cursor-size=24
+
